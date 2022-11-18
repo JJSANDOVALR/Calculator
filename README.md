@@ -1,2 +1,3 @@
 # Calculator
-Personal calculator with HTML, CSS and JavaScript
+
+This is a simply program, only to start programming with JavaScript and exercise my JavaScript knowledge.
